@@ -1,5 +1,5 @@
-# Making the most of environmental data for health data researchers 
-[ISWC2021 In-Use](https://iswc2021.semanticweb.org/in-use-call)
+# Enhancing rare disease research with semantic integration of environmental and health data 
+[IJCKG2021: The 10th International Joint Conference on Knowledge Graphs](https://iswc2021.semanticweb.org/in-use-call)
 
 ## Authors
 Albert Navarro-Gallinad, Fabrizio Orlandi, and Declan O’Sullivan
@@ -8,11 +8,11 @@ ADAPT Centre for Digital Content, Trinity College Dublin, Dublin, Ireland
 School of Computer Science and Statistics, Trinity College Dublin, Dublin, Ireland
 
 ## Abstract
-In rare disease research, Health Data Researchers (HDR) require additional types of data outside the health sector, like environmental data, to better understand the extrinsic factors that influence health outcomes. Knowledge Graph (KG) approaches are increasingly being used for data integration processes by combining clinical data with other data sources. However, using and directly navigating the combined data in the KG can be an obstacle for HDRs. To address this problem, the Semantic Environmental and Rare Disease data Integration Framework (SERDIF) was designed to hide the complexities for these researchers when exploring linked environmental observations with clinical data using a KG approach. The framework was evaluated by HDRs for a case study on Anti-neutrophil cytoplasm antibody (ANCA)-associated vasculitis (AAV) in Ireland, and promising usability and effectiveness results were observed. HDRs studying AAV were able to access, explore and export environmental related data to be used as input for their statistical models. SERDIF has the potential to be a solution for HDRs, who require a flexible methodology to integrate environmental data with longitudinal and geospatial diverse clinical data, in their hypothesis exploration of environmental factors for rare disease research.
+In rare disease research, Health Data Researchers (HDR) require additional types of data outside the health sector, like environmental data, to better understand the extrinsic factors that influence health outcomes. Knowledge Graph (KG) approaches are increasingly being used for data integration processes by combining clinical data with other data sources. However, using and directly navigating the combined data in the KG can be an obstacle for HDRs. To address this problem, the Semantic Environmental and Rare Disease data Integration Framework (SERDIF) was designed to hide the complexities for these researchers when exploring linked environmental observations with clinical data using a KG approach. The framework was evaluated by HDRs for a case study on Anti-neutrophil cytoplasm antibody (ANCA)-associated vasculitis (AAV) in Ireland, and promising usability and effectiveness results were observed. HDRs studying AAV were able to access, explore and export environmental related data to be used as input for their statistical models. SERDIF has the potential to be a solution for HDRs, who require a flexible methodology to integrate environmental data with longitudinal and geospatial diverse clinical data, in their hypothesis validation of environmental factors for rare disease research.
 
 ## The SERDIF approach
 The framework is a combination of a methodology, a Knowledge Graph and a dashboard.
-* **Methodology** is a series of steps that should be taken to define the necessary spatio-temporal data structures to combine clinical and environmental data. The methodology is divided into six main processes illustrated in Fig. 1.
+* **Methodology** is a series of steps that should be taken to define the necessary spatio-temporal data structures to combine clinical and environmental data. The methodology is divided into six main processes exemplified below.
 * **Knowledge Graph**: hosted in a [GraphDB triplestore](https://graphdb.ontotext.com/)
 * **Dashboard**: build using [Dash from Python](https://plotly.com/dash/)
 
