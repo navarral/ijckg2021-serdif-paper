@@ -62,4 +62,3 @@ This process exports combined and/or aggregated data from the Knowledge Graph in
 
 ### 6. Usability evaluation
 The usability evaluation is provided as a [jupyter notebook](https://github.com/navarral/iswc2021-in-use-paper/blob/main/figures/FiguresNotebook_ISWC2021.ipynb).
-If Github does not reder correctly the previous link from this repository, try the following from [nbviewer](https://nbviewer.jupyter.org/github/navarral/iswc2021-in-use-paper/blob/main/figures/FiguresNotebook_ISWC2021.ipynb).
