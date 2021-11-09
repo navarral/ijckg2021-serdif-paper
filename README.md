@@ -61,4 +61,4 @@ To explore the dashboard plese read the information on the main panel, proceed t
 This process exports combined and/or aggregated data from the Knowledge Graph in tabular format for analysis. The results from the SPARQL query can be exported as a table (CSV), which is the preferred input format for data analysis, through the dashboard.
 
 ### 6. Usability evaluation
-The usability evaluation is provided as a [jupyter notebook](https://github.com/navarral/iswc2021-in-use-paper/blob/main/figures/FiguresNotebook_ISWC2021.ipynb).
+The usability evaluation is provided as a [jupyter notebook](https://github.com/navarral/ijckg2021-serdif-paper/blob/main/figures/FiguresNotebook_ISWC2021.ipynb).
